@@ -131,7 +131,7 @@ def getcontent(listurl,proxy):
 #设置关键词
 key="物联网"
 #设置代理服务器
-proxy="101.200.43.49:6000"
+proxy="123.249.28.188:3128"
 proxy2=" "
 #起始页
 pagestart=1
